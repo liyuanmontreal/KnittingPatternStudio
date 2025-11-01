@@ -1,4 +1,4 @@
-# Knitting Pattern Studio
+# Knitting Pattern Studio — Sweater Mockup Edition
 
 Run with:
 
